@@ -1,0 +1,28 @@
+Assignment 1
+
+Dataset : NESARC codebook 
+
+Research question: Is depression and social phobia a biproduct of alcoholism or cause?
+
+Introduction :The U.S. National Epidemiological Survey on Alcohol and Related Conditions (NESARC) is a survey designed to determine the magnitude of alcohol use and psychiatric disorders in the U.S. population. It is a representative sample of the non-institutionalized population 18 years and older.
+
+Abstract : Aims is to examine the given dataset and find the associations between alcohol use disorders (AUD),major depression (MD) and Social phobia to evaluate the evidence for the existence of a causal relationship between the disorders.
+
+Items included in the CodeBook: 
+main focus on the data given in
+- SECTION 4A: MAJOR DEPRESSION (LOW MOOD I)
+- SECTION 7: SOCIAL PHOBIA (SOCIAL SITUATIONS)
+
+along with contents given in
+-SECTION 4B: FAMILY HISTORY (III) OF MAJOR DEPRESSION
+-SECTION 4C: DYSTHYMIA (LOW MOOD II)
+
+Literature Review:
+1. Alcohol and depression by Joseph M. Boden  David M. Fergusson
+(https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1360-0443.2010.03351.x)
+2.Social phobia and alcoholism: a complex relationship by Jean-PierreLépineAntoinePélissolo
+(https://www.sciencedirect.com/science/article/abs/pii/S0165032798000895)
+
+Summary:
+Saddness and anxiety can be a driving forcus for alcoholism.
+This will be my attempt to check the correration between depression,social phobia and alcoholism.
