@@ -124,3 +124,131 @@ data.columns = map(str.upper, data.columns)
 pd.set_option('display.float_format', lambda x:'%f'%x)
 
 
+OUTPUT:
+  43093
+3010
+count of S4AQ4A5-HAD TROUBLE FALLING ASLEEP NEARLY EVERY DAY FOR 2+ WEEK,YES=1 :
+     29340
+1     7422
+2     6146
+9      185
+Name: S4AQ4A5, dtype: int64
+ percentage of S2AQ4A5-HAD TROUBLE FALLING ASLEEP NEARLY EVERY DAY FOR 2+ WEEK,YES=1 :
+     0.680853
+1    0.172232
+2    0.142622
+9    0.004293
+Name: S4AQ4A5, dtype: float64
+count of S4AQ4A12-FELT WORTHLESS MOST OF THE TIME FOR 2+ WEEK,YES=1 :
+     29340
+1     5798
+2     7782
+9      173
+Name: S4AQ4A12, dtype: int64
+ percentage of S4AQ4A12-FELT WORTHLESS MOST OF THE TIME FOR 2+ WEEK,YES=1 :
+     0.680853
+1    0.134546
+2    0.180586
+9    0.004015
+Name: S4AQ4A12, dtype: float64
+count of S4AQ4A18 :FELT LIKE WANTED TO DIE,YES=1
+     29340
+1     4468
+2     9163
+9      122
+Name: S4AQ4A18, dtype: int64
+ percentage of S4AQ4A18 :FELT LIKE WANTED TO DIE,YES=1
+     0.680853
+1    0.103683
+2    0.212633
+9    0.002831
+Name: S4AQ4A18, dtype: float64
+count of S4AQ11 :ANY EPISODE BEGAN AFTER DRINKING HEAVILY/MORE THAN USUAL
+     34276
+1      585
+2     8190
+9       42
+Name: S4AQ11, dtype: int64
+ percentage of S4AQ11 :ANY EPISODE BEGAN AFTER DRINKING HEAVILY/MORE THAN USUAL
+     0.795396
+1    0.013575
+2    0.190054
+9    0.000975
+Name: S4AQ11, dtype: float64
+count of S4AQ12 :ANY EPISODE BEGAN WHEN EXPERIENCING BAD AFTEREFFECTS OF DRINKING
+     34276
+1      383
+2     8386
+9       48
+Name: S4AQ12, dtype: int64
+ percentage of S4AQ12:ANY EPISODE BEGAN WHEN EXPERIENCING BAD AFTEREFFECTS OF DRINKING
+     0.795396
+1    0.008888
+2    0.194602
+9    0.001114
+Name: S4AQ12, dtype: float64
+count of S4AQ20A :EVER DRANK ALCOHOL TO IMPROVE LOW MOOD/MAKE SELF FEEL BETTER
+     34276
+1     1697
+2     7094
+9       26
+Name: S4AQ20A, dtype: int64
+ percentage of S4AQ20A :EVER DRANK ALCOHOL TO IMPROVE LOW MOOD/MAKE SELF FEEL BETTER
+     0.795396
+1    0.039380
+2    0.164621
+9    0.000603
+Name: S4AQ20A, dtype: float64
+S4AQ4A5
+     29340
+1     7422
+2     6146
+9      185
+dtype: int64
+S4AQ4A5
+     68.085304
+1    17.223215
+2    14.262177
+9     0.429304
+dtype: float64
+S4AQ4A18
+     29340
+1     4468
+2     9163
+9      122
+dtype: int64
+S4AQ4A18
+     68.085304
+1    10.368273
+2    21.263314
+9     0.283109
+dtype: float64
+S4AQ11
+     34276
+1      585
+2     8190
+9       42
+dtype: int64
+S4AQ11
+     79.539600
+1     1.357529
+2    19.005407
+9     0.097464
+dtype: float64
+S4AQ20A
+     34276
+1     1697
+2     7094
+9       26
+dtype: int64
+S4AQ20A
+     79.539600
+1     3.937995
+2    16.462070
+9     0.060335
+dtype: float64
+counts for AGE
+Series([], Name: AGE, dtype: int64)
+percentages for AGE
+Series([], Name: AGE, dtype: float64)
+
