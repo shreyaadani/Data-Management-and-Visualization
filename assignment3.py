@@ -61,5 +61,59 @@ print('AFTER')
 print(c1)
 
 
+OUTPUT:
+  DURING PAST 4 WEEKS, HOW OFTEN FELT DOWNHEARTED AND DEPRESSED:
+BEFORE:
+5    22127
+4    11305
+3     6286
+2     2051
+1      907
+9      417
+Name: S1Q213, dtype: int64
+AFTER
+1    907
+Name: S1Q213, dtype: int64
+------------------------------------------
+\WANTED TO DIE, YES=1:
+BEFORE:
+     29340
+2     9163
+1     4468
+9      122
+Name: S4AQ4A18, dtype: int64
+AFTER
+1    326
+     325
+2    245
+9     11
+Name: S4AQ4A18, dtype: int64
+\ANY EPISODE BEGAN AFTER DRINKING HEAVILY/MORE THAN USUAL
+BEFORE:
+     34276
+2     8190
+1      585
+9       42
+Name: S4AQ11, dtype: int64
+AFTER
+     447
+2    419
+1     38
+9      3
+Name: S4AQ11, dtype: int64
+\DRANK ALCOHOL TO AVOID SOCIAL PHOBIA IN LAST 12 MONTHS YES=1
+BEFORE:
+     37682
+2     5223
+1      148
+9       40
+Name: S7Q31B, dtype: int64
+AFTER
+     723
+2    169
+1     12
+9      3
+Name: S7Q31B, dtype: int64
+
 
 
